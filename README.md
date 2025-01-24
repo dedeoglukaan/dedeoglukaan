@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaan Dedeoğlu</h1>
-<h3 align="center">I am a senior Computer Engineering student with a focus on cybersecurity and Linux systems. My goal is to enhance my skills in these areas and leverage technology to create secure and effective solutions.y</h3>
+<h3 align="center">I am a senior Computer Engineering student with a focus on cybersecurity and Linux systems. My goal is to enhance my skills in these areas and leverage technology to create secure and effective solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dedeoglukaan&label=Profile%20views&color=0e75b6&style=flat" alt="dedeoglukaan" /> </p>
 
