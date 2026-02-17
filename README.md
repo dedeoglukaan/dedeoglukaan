@@ -1,57 +1,53 @@
-<h1 align="center">Hi, I'm Kaan Dedeoğlu 👋</h1>
-
-<h3 align="center">
-Computer Engineering graduate focused on cybersecurity, Linux systems, and secure software development.
-</h3>
+<h1 align="center">Hi, I'm Kaan 👋</h1>
 
 <p align="center">
-I build practical projects around web security, automation, and system-level tooling, with an emphasis on clarity,
-documentation, and real-world applicability.
+Computer Engineering graduate with a strong focus on <b>cybersecurity</b>, <b>Linux systems</b>, and
+<b>secure software development</b>.
+</p>
+
+<p align="center">
+I work on practical, hands-on projects related to web security and automation,
+prioritizing clean design, clear documentation, and real-world relevance.
 </p>
 
 ---
 
-<h3>🔐 Focus Areas</h3>
+<h3>🔐 Areas of Focus</h3>
 <ul>
-  <li>Web Security & Vulnerability Analysis</li>
-  <li>Linux Systems & Scripting</li>
-  <li>Secure Backend Development</li>
-  <li>Automation with Python</li>
+  <li>Web security & vulnerability analysis</li>
+  <li>Linux systems and scripting</li>
+  <li>Secure backend development</li>
+  <li>Python-based automation</li>
 </ul>
 
 ---
 
-<h3>🧠 What I Do</h3>
+<h3>🧠 How I Work</h3>
 <ul>
-  <li>Develop small, focused security tools and scripts</li>
-  <li>Analyze common web vulnerabilities (IDOR, auth issues, logic flaws)</li>
-  <li>Document technical decisions and trade-offs clearly</li>
-  <li>Continuously improve through hands-on projects and write-ups</li>
+  <li>Build small, focused tools instead of large unfinished projects</li>
+  <li>Analyze security issues by understanding the underlying logic</li>
+  <li>Write clear READMEs that explain <i>why</i>, not just <i>what</i></li>
 </ul>
 
 ---
 
 <h3>🛠 Tech Stack</h3>
-<ul>
-  <li><b>Languages:</b> Python, Java, JavaScript</li>
-  <li><b>Systems:</b> Linux, Git</li>
-  <li><b>Security:</b> Web security fundamentals, manual testing</li>
-  <li><b>Tools:</b> Bash, basic automation tooling</li>
-</ul>
+<p>
+<b>Python</b> · <b>Java</b> · <b>JavaScript</b> · Linux · Git · Bash
+</p>
 
 ---
 
-<h3>📌 Featured Work</h3>
+<h3>📌 Projects</h3>
 <p>
-Repositories below showcase hands-on projects and security-focused experiments.
-Each project includes a clear README explaining the problem, approach, and outcome.
+Pinned repositories highlight security-focused scripts, experiments, and write-ups.
+Each project is documented with a clear problem statement and solution approach.
 </p>
 
 ---
 
 <h3>📫 Contact</h3>
-<ul>
-  <li>Email: <b>kaandedeoglu2002@gmail.com</b></li>
-  <li>LinkedIn: <a href="https://linkedin.com/in/kaandedeoglu">linkedin.com/in/kaandedeoglu</a></li>
-  <li>GitHub: <a href="https://github.com/dedeoglukaan">github.com/dedeoglukaan</a></li>
-</ul>
+<p>
+Email: <b>kaandedeoglu2002@gmail.com</b><br/>
+LinkedIn: <a href="https://linkedin.com/in/kaandedeoglu">linkedin.com/in/kaandedeoglu</a>
+</p>
