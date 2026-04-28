@@ -16,7 +16,7 @@ Computer Engineering graduate (Eskisehir Technical University, 2025) with a stro
 ## Project
 
 **OSTEODEEP** — AI-driven bone health assessment using knee X-rays.
-[IEEE Published](https://ieeexplore.ieee.org/document/11208293) · TÜBITAK 2209-A Funded
+[IEEE Published](https://ieeexplore.ieee.org/document/11208293) · [GitHub](https://github.com/dedeoglukaan/osteodeep) · TÜBITAK 2209-A Funded
 Stacking ensemble (EfficientNetB2 + VGG-19 → SVM + XGBoost) achieving 90.10% accuracy on 3-class osteoporosis detection.
 
 ## Certifications
