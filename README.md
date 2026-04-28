@@ -1,53 +1,30 @@
-<h1 align="center">Hi, I'm Kaan 👋</h1>
+# Kaan Dedeoglu
 
-<p align="center">
-Computer Engineering graduate with a strong focus on <b>cybersecurity</b>, <b>Linux systems</b>, and
-<b>secure software development</b>.
-</p>
+Computer Engineering graduate (Eskisehir Technical University, 2025) focused on application security, Linux systems, and offensive security.
 
-<p align="center">
-I work on practical, hands-on projects related to web security and automation,
-prioritizing clean design, clear documentation, and real-world relevance.
-</p>
+## What I Do
 
----
+- **Bug Bounty** — Active hunter on [HackerOne](https://hackerone.com/dedephus). Web app security, IDOR, auth flaws, SSRF.
+- **Security Research** — OWASP Top 10, HTTP debugging with Burp Suite & Caido, threat modeling.
+- **Systems** — Linux administration, networking, PostgreSQL, reverse proxy setup.
 
-<h3>🔐 Areas of Focus</h3>
-<ul>
-  <li>Web security & vulnerability analysis</li>
-  <li>Linux systems and scripting</li>
-  <li>Secure backend development</li>
-  <li>Python-based automation</li>
-</ul>
+## Highlight
 
----
+**OSTEODEEP** — AI-driven bone health assessment using X-rays.
+[IEEE Published](https://ieeexplore.ieee.org/document/11208293) · TÜBITAK 2209-A Funded
+Stacking ensemble (EfficientNetB2 + VGG-19 → SVM + XGBoost) achieving 90.10% accuracy on 3-class osteoporosis detection.
 
-<h3>🧠 How I Work</h3>
-<ul>
-  <li>Build small, focused tools instead of large unfinished projects</li>
-  <li>Analyze security issues by understanding the underlying logic</li>
-  <li>Write clear READMEs that explain <i>why</i>, not just <i>what</i></li>
-</ul>
+## Background
 
----
+- Garanti BBVA Technology Security Academy — Top 20 / ~2,000 applicants
+- Wiz Bug Bounty Masterclass · Cisco NDG Linux · TryHackMe Pre Security
+- IT Systems internships — DSpace deployment, Fortinet firewalls, Linux hardening
 
-<h3>🛠 Tech Stack</h3>
-<p>
-<b>Python</b> · <b>Java</b> · <b>JavaScript</b> · Linux · Git · Bash
-</p>
+## Tech
 
----
+`Python` · `Java` · `Spring Boot` · `Shell` · `Linux` · `PostgreSQL` · `Burp Suite` · `Caido`
 
-<h3>📌 Projects</h3>
-<p>
-Pinned repositories highlight security-focused scripts, experiments, and write-ups.
-Each project is documented with a clear problem statement and solution approach.
-</p>
+## Links
 
----
-
-<h3>📫 Contact</h3>
-<p>
-Email: <b>kaandedeoglu2002@gmail.com</b><br/>
-LinkedIn: <a href="https://linkedin.com/in/kaandedeoglu">linkedin.com/in/kaandedeoglu</a>
-</p>
+- [dedeoglukaan.github.io](https://dedeoglukaan.github.io)
+- [LinkedIn](https://www.linkedin.com/in/kaandedeoglu)
