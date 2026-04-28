@@ -4,7 +4,6 @@ Computer Engineering graduate (Eskisehir Technical University, 2025) focused on 
 
 ## What I Do
 
-- **Bug Bounty** — Active hunter on [HackerOne](https://hackerone.com/dedephus). Web app security, IDOR, auth flaws, SSRF.
 - **Security Research** — OWASP Top 10, HTTP debugging with Burp Suite & Caido, threat modeling.
 - **Systems** — Linux administration, networking, PostgreSQL, reverse proxy setup.
 
@@ -16,7 +15,6 @@ Stacking ensemble (EfficientNetB2 + VGG-19 → SVM + XGBoost) achieving 90.10% a
 
 ## Background
 
-- Garanti BBVA Technology Security Academy — Top 20 / ~2,000 applicants
 - Wiz Bug Bounty Masterclass · Cisco NDG Linux · TryHackMe Pre Security
 - IT Systems internships — DSpace deployment, Fortinet firewalls, Linux hardening
 
