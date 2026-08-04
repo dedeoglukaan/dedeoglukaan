@@ -29,5 +29,6 @@ Wiz Bug Bounty Masterclass · Udemy Web App Security · Cisco NDG Linux · Cisco
 
 ## Links
 
-- [dedeoglukaan.github.io](https://dedeoglukaan.github.io)
+- [kaandedeoglu.com](https://kaandedeoglu.com)
+- [HackerOne](https://hackerone.com/dedephus)
 - [LinkedIn](https://www.linkedin.com/in/kaandedeoglu)
