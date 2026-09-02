@@ -12,7 +12,7 @@ PoC generation, adversarial validation and report drafting as one continuous age
 than a scanner.
 
 19 vulnerability classes encoded as 27 executable methodology modules (~11,400 lines), roughly
-2,000 commits over four months. Candidate findings are severity-benchmarked against 14,617
+2,300 commits over four months. Candidate findings are severity-benchmarked against 14,617
 disclosed HackerOne reports before anything is submitted. Private repository, walkthrough on
 request.
 
