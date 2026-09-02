@@ -23,7 +23,6 @@ request.
   [source](https://github.com/dedeoglukaan/osteodeep) · TÜBİTAK 2209-A funded.
 - **Two systems and networking internships** — Eskişehir Technical University and Creentech.
   Linux administration, PostgreSQL, Apache Solr, reverse proxies, FortiGate policies, VLANs.
-- **Garanti BBVA Technology Security Academy** — one of the final 20 from ~3,600 applicants.
 - BSc Computer Engineering, Eskişehir Technical University, 2025.
 
 ## Links
